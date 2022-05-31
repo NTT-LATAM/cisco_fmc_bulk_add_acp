@@ -113,3 +113,13 @@ The application will start creating the ACPs one by one. Note that:
 - You must add valid Source Interface and Destination Interface. The automation will not create for you!
 - If the ACP Policy does not exist, the application will create it
 - If the Category does not exist, the application will create it
+
+<br>
+<center>
+<img src="./img/exec1.png" alt="drawing" width="1024"/>
+</center>
+<br>
+<center>
+<img src="./img/exec2.png" alt="drawing" width="1024"/>
+</center>
+<br>
